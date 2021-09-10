@@ -38,31 +38,30 @@
         <li> Independent Research </li>
     </ul>
 
-    <b>
+  <p>  <b>
         PROGRAMMING LANGUAGES
     </b>
     <ul>
     <li> Java: 3 semesters of instruction</li>
     <li> SQL: 1 semester of instruction</li>
-</ul>
-<b>GENERAL INTERESTS</b>
-    <p>
-        I love to bake and spend time with my dogs. I also enjoy reading and watching old movies. I particularly love watching old Italian movies.
-    </p>
+    </ul></p>
+ <p><b>GENERAL INTERESTS</b>
+   
+        I love to bake and spend time with my dogs. I also enjoy reading and watching old movies. I particularly love watching old Italian movies.</p>
 
-<b>
+<p><b>
     FAVORITE SONG, FILM & TV SHOW
        </b>
     <ul>
         <li> <a href="https://www.youtube.com/watch?v=iS88CRDMA8E">My Favorite Song</a> </li>
         <li> <a href="https://www.youtube.com/watch?v=mFl8nzZuExE">My Favorite Film</a></li>
         <li><a href="https://www.youtube.com/watch?v=N_gsv1A_IXQ">My Favorite TV Show</a> </li>
-        </ul>
+    </ul></p>
 
-    <b>FAVORITE WEBSITE</b>
-       <p>
-           I love to shop but, I do have a budget. If you think you know where I shop <a href="https://www.kohls.com/">Click Here</a>
-       </p>
+   <p>  <b>FAVORITE WEBSITE</b>
+      
+       I love to shop but, I do have a budget. If you think you know where I shop.
+            <a href="https://www.kohls.com/">Click Here</a></p>
 </div>
 <h2>
     Menu Section
