@@ -1,0 +1,46 @@
+@media print {
+.screen-only {
+display: none
+}
+}
+/*@media (min-width: 1px)
+{b{color:#004953;text-align:center;}
+p{color:##00FFFF;}
+}*/
+.blue-background{
+color:##004953;
+background-color:#B9D9EB;
+}
+h2
+{color:#00008B;
+text-align:center;
+    }
+h3{
+color:#00008B;
+text-align:center;
+font-size:x-large;
+}
+#heading{
+color:#0018A8;
+}
+#paragraph{
+color:#0018A8;
+}
+#lists{
+color:#002387;
+}
+.list-color{color:#120A8F;
+}
+ .myDIVTwo{
+    text-align:center;
+    }
+
+table{
+border-width:2px;
+border-style:solid;
+border-color:#006A4E;
+
+width:25%;
+margin-left:auto;
+margin-right:auto;
+}
