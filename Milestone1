@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Erin Murray</title>
+    <link rel="screen" href="mycss_tablet.css">
 </head>
 <style>
     .myDIV{
