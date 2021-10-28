@@ -1,12 +1,11 @@
-{"Questions" :[
+{"question"=1 :
   {
    "questionType" : "true_false",
     "questionText" : "Python is an Interpreted Language",
     "correctAnswer" : "true",
     "options" : ["true", "false"]
-  }
-],
-  "question1" :{
+  },
+  "question"=2 :{
     "questionType" : "text_input",
     "questionText" : "What is the value of the expression 1+1",
     "correctAnswer" : "2",
