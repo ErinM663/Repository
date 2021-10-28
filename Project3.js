@@ -20,10 +20,10 @@ async function fetch_Questions_async() {
 function updateDOM(result){
 let question = result.appState.current_question[0];
   let HTMLString = `<br> Question: ${question}`;
-  document.querySelector("#widget_view").innerHTML=HTMLString;
+  document.querySelector("#widget_view").innerHTML = HTMLString;
 }
 
-// appState, keep information about the State of the application.
+
 const appState = {
     current_view : "#intro_view",
     current_question : -1,
