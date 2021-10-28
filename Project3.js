@@ -1,4 +1,4 @@
-const questions = [
+/* const questions = [
   {
     questionType : "true_false",
     questionText : "The earth is round",
@@ -9,19 +9,19 @@ const questions = [
     questionType : "text_input",
     questionText : "What is the value of the expression 1+1",
     correctAnswer : "2",
-    answerFieldId : "answer_to_question"
+    answerFieldId : "answer_to_question" */
   }
 ]
-/*async function fetch_users() {
-  try {
-  const response = await fetch('my-json-server.typicode.com/ErinM663/Repository')
-    const result = await response.json()
-     console.log(result);
-      } catch (err) {
-        console.error(err);
-      }
-    }
-    fetch_users()*/
+async function fetch_Questions_async() {
+  const response = await fetch('my-json-server.typicode.com/ErinM663/Repository');
+    const result = await response.json(); 
+     updateDOM(result);
+}
+function updateDOM(result){
+let question = result.appState.current_question[0];
+  let HTMLString = `<br> Question: ${question}`;
+  document.querySelector("#widget_view").innerHTML=HTMLString;
+}
 
 // appState, keep information about the State of the application.
 const appState = {
@@ -72,7 +72,7 @@ function handle_widget_event(e) {
         update_view(appState);
     }
   }
-
+fetch_Questions_async()
   // Handle the answer event.
   if (appState.current_view == "#question_view_true_false") {
 
