@@ -3,7 +3,7 @@
    "questionType" : "true_false",
     "questionText" : "Python is an Interpreted Language",
     "correctAnswer" : "true",
-    "options" : ["true", "false"],
+    "options" : ["true", "false"]
   }
 ],
   "question1" :{
