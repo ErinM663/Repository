@@ -60,7 +60,7 @@ function handle_widget_event(e) {
 
   if (appState.current_view == "#intro_view"){
     if (e.target.dataset.action == "start_app") {
-
+        fetch_Questions_async()
         // Update State (current model + state variables)
         appState.current_question = 0
         appState.current_model = questions[appState.current_question];
@@ -72,7 +72,7 @@ function handle_widget_event(e) {
         update_view(appState);
     }
   }
-fetch_Questions_async()
+
   // Handle the answer event.
   if (appState.current_view == "#question_view_true_false") {
 
@@ -93,7 +93,8 @@ fetch_Questions_async()
 
    // Handle answer event for  text questions.
    if (appState.current_view == "#question_view_text_input") {
-       if (e.target.dataset.action == "submit") {
+     
+     if (e.target.dataset.action == "submit") {
 
            user_response = document.querySelector(`#${appState.current_model.answerFieldId}`).value;
            isCorrect = check_user_response(e.target.dataset.answer, appState.current_model);
