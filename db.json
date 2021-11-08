@@ -6,13 +6,15 @@
     "correctAnswer" : "true",
     "options" : ["true", "false"]
   },
- {  "id" : 2,   
+ {  
+   "id" : 2,   
    "questionType" : "text_input",
     "questionText" : "What is the result of the following code: System.out.println(10 % 3);",
     "correctAnswer" : "1",
     "answerFieldId" : "answer_to_question"
   },
-  {  "id" : 3,   
+  {  
+    "id" : 3,   
    "questionType" : "text_input",
     "questionText" : "What transmits between two networks?",
     "correctAnswer" : "router",
@@ -22,19 +24,19 @@
    "questionType" : "true_false",
     "questionText" : "OS stands for operating system",
     "correctAnswer" : "true",
-    "answerFieldId" : ["true", "false"]
+    "options" : ["true", "false"]
   },
   {"id" : 5,   
    "questionType" : "multiple",
     "questionText" : "A Compiled Language is",
     "correctAnswer" : "A language that is completely converted into executable format",
-    "answerFieldId" : ["A language that is completely converted into executable format", "A lanuguage excecuted line by line","A lanugage put together","does not exist"]
+    "options" : ["A language that is completely converted into executable format", "A lanuguage excecuted line by line","A lanugage put together","does not exist"]
   },
   {"id" : 6,   
    "questionType" : "true_false",
     "questionText" : "A GUI stands for a graphical user interface",
     "correctAnswer" : "true",
-    "answerFieldId" : ["true", "false"]
+    "options" : ["true", "false"]
   }, {"id" : 7,   
    "questionType" : "text_input",
     "questionText" : "What is an ERD?",
@@ -59,33 +61,29 @@
    "questionType" : "multiple",
     "questionText" : "CSS is",
     "correctAnswer" : "Cascading Style Sheets",
-    "answerFieldId" : ["Corresponding Sheets Styling", "Cascading Style Sheets","Cascading Sheets of Style","Correspoding Style Sheets"]
+    "options" : ["Corresponding Sheets Styling", "Cascading Style Sheets","Cascading Sheets of Style","Correspoding Style Sheets"]
   },
   {"id" : 12,   
    "questionType" : "multiple",
     "questionText" : "In JS, declaring a variable is",
     "correctAnswer" : "var i",
-    "answerFieldId" : ["var i", "int i;","var i: 0;","i"]
+    "options" : ["var i", "int i;","var i: 0;","i"]
   },
   {"id" : 13,   
    "questionType" : "true_false",
     "questionText" : "There are only 6 headings in HTML",
     "correctAnswer" : "true",
-    "answerFieldId" : ["true", "false"]
+    "options" : ["true", "false"]
   },
   {"id" : 14,   
    "questionType" : "true_false",
     "questionText" : "<p> is the tag for a paragraph in HTML",
     "correctAnswer" : "true",
-    "answerFieldId" : ["true", "false"]
+    "options" : ["true", "false"]
   },
   
 
-
-
-
-
-
+  
 ]
   
 }
