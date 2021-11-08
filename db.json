@@ -109,7 +109,7 @@
       "questionType": "checkBox",
       "questionText": "Which are Programming Languages?",
       "correctAnswer": ["JavaScript","Python"],
-      "options": ["JavaScript","Python","Italian", "Spanish"],
+      "options": ["JavaScript","Python","Italian", "Spanish"]
      
     },
   {
@@ -120,14 +120,14 @@
       "questionTextAfter":".",
       "correctAnswer": ["Unified", "Language"],
       "answerField1":"answer_to_first_blank",
-      "answerField2":"answer_to_second_blank",
+      "answerField2":"answer_to_second_blank"
   }, 
  {
       "id": 18,
       "questionType": "checkBox",
       "questionText": "Which are Programming Languages?",
       "correctAnswer": ["JavaScript","Python"],
-      "options": ["JavaScript","Python","Italian", "Spanish"],
+      "options": ["JavaScript","Python","Italian", "Spanish"]
       
     },
   {
@@ -135,7 +135,7 @@
       "questionType": "checkBox",
       "questionText": "Which are Programming Languages?",
       "correctAnswer": ["JavaScript","Python"],
-      "options": ["JavaScript","Python","Italian", "Spanish"],
+      "options": ["JavaScript","Python","Italian", "Spanish"]
      
     },
   {
@@ -143,7 +143,7 @@
       "questionType": "checkBox",
       "questionText": "Which are Programming Languages?",
       "correctAnswer": ["JavaScript","Python"],
-      "options": ["JavaScript","Python","Italian", "Spanish"],
+      "options": ["JavaScript","Python","Italian", "Spanish"]
      
     },
   
