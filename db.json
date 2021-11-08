@@ -63,14 +63,14 @@
     "answerFieldId" : "answer_to_question"
   },
   {
-    "id" : 10   
+    "id" : 10,   
    "questionType" : "text_input",
     "questionText" : "How do you comment out an entire chunk of code?",
     "correctAnswer" : "/**/",
     "answerFieldId" : "answer_to_question"
   },
-    {
-      "id" : 11,   
+  {
+   "id" : 11,   
    "questionType" : "multiple",
     "questionText" : "CSS is",
     "correctAnswer" : "Cascading Style Sheets",
