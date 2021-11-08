@@ -125,25 +125,25 @@
  {
       "id": 18,
       "questionType": "checkBox",
-      "questionText": "Which are Programming Languages?",
-      "correctAnswer": ["JavaScript","Python"],
+      "questionText": "Which are not Programming Languages?",
+      "correctAnswer": ["Italian", "Spanish"],
       "options": ["JavaScript","Python","Italian", "Spanish"]
       
     },
   {
       "id": 19,
       "questionType": "checkBox",
-      "questionText": "Which are Programming Languages?",
-      "correctAnswer": ["JavaScript","Python"],
-      "options": ["JavaScript","Python","Italian", "Spanish"]
+      "questionText": "Which are compiled Programming Languages?",
+      "correctAnswer": ["JavaScript","java"],
+      "options": ["JavaScript","java","python", "Italian"]
      
     },
   {
       "id": 20,
       "questionType": "checkBox",
-      "questionText": "Which are Programming Languages?",
-      "correctAnswer": ["JavaScript","Python"],
-      "options": ["JavaScript","Python","Italian", "Spanish"]
+      "questionText": "Which are used in HTML?",
+      "correctAnswer": ["CSS","Bootstraps"],
+      "options": ["CSS","Bootstraps", "python","C++"]
      
     }
   
