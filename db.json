@@ -110,7 +110,7 @@
       "questionText": "Which are Programming Languages?",
       "correctAnswer": ["JavaScript","Python"],
       "options": ["JavaScript","Python","Italian", "Spanish"],
-      "explanation": "'Brain' is not a type of computer memory, but RAM and cache are."
+     
     },
   {
     "id": 17,
@@ -128,7 +128,7 @@
       "questionText": "Which are Programming Languages?",
       "correctAnswer": ["JavaScript","Python"],
       "options": ["JavaScript","Python","Italian", "Spanish"],
-      "explanation": "'Brain' is not a type of computer memory, but RAM and cache are."
+      
     },
   {
       "id": 19,
@@ -136,7 +136,7 @@
       "questionText": "Which are Programming Languages?",
       "correctAnswer": ["JavaScript","Python"],
       "options": ["JavaScript","Python","Italian", "Spanish"],
-      "explanation": "'Brain' is not a type of computer memory, but RAM and cache are."
+     
     },
   {
       "id": 20,
@@ -144,7 +144,7 @@
       "questionText": "Which are Programming Languages?",
       "correctAnswer": ["JavaScript","Python"],
       "options": ["JavaScript","Python","Italian", "Spanish"],
-      "explanation": "'Brain' is not a type of computer memory, but RAM and cache are."
+     
     },
   
 ]
