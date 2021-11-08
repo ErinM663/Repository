@@ -96,9 +96,56 @@
     "questionText" : "<p> is the tag for a paragraph in HTML",
     "correctAnswer" : "true",
     "options" : ["true", "false"]
-  }
-  
-
+  },
+  {
+    "id" : 15,   
+   "questionType" : "true_false",
+    "questionText" : "<li> is the tag for a paragraph in HTML",
+    "correctAnswer" : "false",
+    "options" : ["true", "false"]
+  },
+   {
+      "id": 16,
+      "questionType": "checkBox",
+      "questionText": "Which are Programming Languages?",
+      "correctAnswer": ["JavaScript","Python"],
+      "options": ["JavaScript","Python","Italian", "Spanish"],
+      "explanation": "'Brain' is not a type of computer memory, but RAM and cache are."
+    },
+  {
+    "id": 17,
+      "questionType": "multi_input",
+      "questionTextBefore":"What does UML stand for?",
+      "questionTextBetween":" Modeling ",
+      "questionTextAfter":".",
+      "correctAnswer": ["Unified", "Language"],
+      "answerField1":"answer_to_first_blank",
+      "answerField2":"answer_to_second_blank",
+  }, 
+ {
+      "id": 18,
+      "questionType": "checkBox",
+      "questionText": "Which are Programming Languages?",
+      "correctAnswer": ["JavaScript","Python"],
+      "options": ["JavaScript","Python","Italian", "Spanish"],
+      "explanation": "'Brain' is not a type of computer memory, but RAM and cache are."
+    },
+  {
+      "id": 19,
+      "questionType": "checkBox",
+      "questionText": "Which are Programming Languages?",
+      "correctAnswer": ["JavaScript","Python"],
+      "options": ["JavaScript","Python","Italian", "Spanish"],
+      "explanation": "'Brain' is not a type of computer memory, but RAM and cache are."
+    },
+  {
+      "id": 20,
+      "questionType": "checkBox",
+      "questionText": "Which are Programming Languages?",
+      "correctAnswer": ["JavaScript","Python"],
+      "options": ["JavaScript","Python","Italian", "Spanish"],
+      "explanation": "'Brain' is not a type of computer memory, but RAM and cache are."
+    },
   
 ]
   
