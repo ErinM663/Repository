@@ -314,4 +314,5 @@ const render_widget = (model,view) => {
     // apply the model to the template.
     var html_widget_element = template({...model,...appState})
 
-  return html_widget_element}
+  return html_widget_element
+}
